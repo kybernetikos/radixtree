@@ -1,0 +1,14 @@
+{
+  "name": "radixtree",
+  "version": "1.0.0",
+  "description": "a radix tree in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "author": "kybernetikos",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
